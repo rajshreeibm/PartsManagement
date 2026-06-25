@@ -4,7 +4,7 @@
 
   <!-- nodes -->
 
-<INVOKE TIMEOUT="" SERVICE="dbconnection:getParts_adapterService" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+<INVOKE TIMEOUT="" SERVICE="partAdapterService:getParts_adapterService" VALIDATE-IN="$none" VALIDATE-OUT="$none">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
